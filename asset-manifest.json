@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_signIn_adaptiveTable/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react_signIn_adaptiveTable/static/js/main.a28771a7.chunk.js",
+    "main.js.map": "/react_signIn_adaptiveTable/static/js/main.a28771a7.chunk.js.map",
+    "runtime-main.js": "/react_signIn_adaptiveTable/static/js/runtime-main.865ec6ea.js",
+    "runtime-main.js.map": "/react_signIn_adaptiveTable/static/js/runtime-main.865ec6ea.js.map",
+    "static/js/2.065edd38.chunk.js": "/react_signIn_adaptiveTable/static/js/2.065edd38.chunk.js",
+    "static/js/2.065edd38.chunk.js.map": "/react_signIn_adaptiveTable/static/js/2.065edd38.chunk.js.map",
+    "index.html": "/react_signIn_adaptiveTable/index.html",
+    "precache-manifest.2e995dc7b80d70b16377c363aa311b97.js": "/react_signIn_adaptiveTable/precache-manifest.2e995dc7b80d70b16377c363aa311b97.js",
+    "service-worker.js": "/react_signIn_adaptiveTable/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react_signIn_adaptiveTable/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.065edd38.chunk.js.LICENSE": "/react_signIn_adaptiveTable/static/js/2.065edd38.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.865ec6ea.js",
+    "static/js/2.065edd38.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a28771a7.chunk.js"
+  ]
+}
