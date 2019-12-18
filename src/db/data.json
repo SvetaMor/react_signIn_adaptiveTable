@@ -1,0 +1,92 @@
+{
+    "calculationResults": [
+        {
+            "title": ["Наименование", "Кол-во", "Цена за ед, ₽", "Стоимость, ₽"]
+        },
+        {
+            "table": [
+                {
+                    "id": "1",
+                    "img": "https://tikostroy.ru/image/cache/import_files/f4/f4d8e1f57d5b11e8aa734ccc6af5a0bc-375x375.png",
+                    "name": "SHINGLAS многослойная черепица, Ранчо, Коричневый, 2 м²",
+                    "count": "78 уп.",
+                    "price": "589.00",
+                    "cost": "45 471.00"
+                },
+                {
+                    "id": "2",
+                    "img": "https://krovelnii.ru/1485-home_default/shinglas-konek-karniz.jpg",
+                    "name": "Черепица конька/карниза (уп. 12 п.м / 20 п.м)",
+                    "count": "3 уп.",
+                    "price": "4 988.00",
+                    "cost": "13 717.00"
+                },
+                {
+                    "id": "3",
+                    "img": "https://71.img.avito.st/image/1/JvAh8ba3ihk3UTAZYclRoblSih-DUoof5DE",
+                    "name": "Планка карниза, 2 м",
+                    "count": "15 шт.",
+                    "price": "595.00",
+                    "cost": "8 925.00"
+                },
+                {
+                    "id": "4",
+                    "img": "https://www.materik-m.ru/upload/iblock/71f/71f7283c778017af4a7cbdd9112bcbab.jpg",
+                    "name": "Планка ветровая, 2 м",
+                    "count": "10 шт.",
+                    "price": "780.00",
+                    "cost": "7 800.00"
+                },
+                {
+                    "id": "5",
+                    "img": "http://bktorg.ru/images/2018/08/31/133729/podkladochnyj-kover-pod-gibkuju-cherepicu-khmm_398140566_1.jpg",
+                    "name": "Ковер подкладочный, рулон 15 м²",
+                    "count": "11 шт.",
+                    "price": "3 829.00",
+                    "cost": "39 439.00"
+                },
+                {
+                    "id": "6",
+                    "img": "https://ventag66.ru/content_files/cms/img/imgbig_11985.jpg",
+                    "name": "Лист OSB, 2500х1250х9 мм",
+                    "count": "54 шт.",
+                    "price": "715.00",
+                    "cost": "38 057.00"
+                },
+                {
+                    "id": "7",
+                    "img": "https://mir-ekb.com/thumb/2/VpHQBpmpmAPQuFvaGBKl3A/500r500/d/konkovyy_ventilyatsionnyy_element.png",
+                    "name": "Аэратор коньковый AIRIDGE FELT",
+                    "count": "26 шт.",
+                    "price": "350.00",
+                    "cost": "9 052.00"
+                },
+                {
+                    "id": "8",
+                    "img": "https://apelsingroup.ru/upload/iblock/de3/zeleniy.jpg",
+                    "name": "Вентилятор скатный Huopa KTV",
+                    "count": "3 уп.",
+                    "price": "1 050.00",
+                    "cost": "3 150.00"
+                },
+                {
+                    "id": "9",
+                    "img": "https://algoritm-tambov.ru/image/cache/catalog/photo/0/upload-iblock-fbc-fbccc8caab37d4a2c98589c29841ba17-228x228.jpg",
+                    "name": "Мастика битумная, 3 л",
+                    "count": "4 шт.",
+                    "price": "2 380.00",
+                    "cost": "7 355.00"
+                },
+                {
+                    "id": "10",
+                    "img": "https://images.satom.ru/i3/firms/28/5498/5498526/gvozdi-krovelnye-ershenye-ocinkovannye-5-kg_85feed2a3517021_800x600.jpg",
+                    "name": "Гвозди кровельные ершеные (упаковка 5 кг)",
+                    "count": "4 уп.",
+                    "price": "750.00",
+                    "cost": "2 318.00"
+                }
+            ]
+        }
+
+    ]
+}
